@@ -1,0 +1,45 @@
+D:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.Form1.resources
+D:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.Properties.Resources.resources
+D:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\bin\Debug\KinectTest_WinFormApp.exe
+D:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\bin\Debug\KinectTest_WinFormApp.pdb
+D:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.exe
+D:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.pdb
+C:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.exe
+C:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.pdb
+C:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\bin\Debug\KinectTest_WinFormApp.exe
+C:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\bin\Debug\KinectTest_WinFormApp.pdb
+C:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.Form1.resources
+C:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.Properties.Resources.resources
+C:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\workspace\VisualStudio2010\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\class\기계학습\프로젝트\KinectTest_WinFormApp_20120612\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.exe
+D:\class\기계학습\프로젝트\KinectTest_WinFormApp_20120612\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.pdb
+D:\class\기계학습\프로젝트\KinectTest_WinFormApp_20120612\KinectTest_WinFormApp\bin\Debug\KinectTest_WinFormApp.exe
+D:\class\기계학습\프로젝트\KinectTest_WinFormApp_20120612\KinectTest_WinFormApp\bin\Debug\KinectTest_WinFormApp.pdb
+D:\class\기계학습\프로젝트\KinectTest_WinFormApp_20120612\KinectTest_WinFormApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\class\기계학습\프로젝트\KinectTest_WinFormApp_20120612\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.Properties.Resources.resources
+D:\class\기계학습\프로젝트\KinectTest_WinFormApp_20120612\KinectTest_WinFormApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\class\기계학습\프로젝트\KinectTest_WinFormApp_20120612\KinectTest_WinFormApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\class\기계학습\프로젝트\KinectTest_WinFormApp_20120612\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.s.resources
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp_20120620\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.exe
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp_20120620\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.pdb
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp_20120620\KinectTest_WinFormApp\bin\Debug\KinectTest_WinFormApp.exe
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp_20120620\KinectTest_WinFormApp\bin\Debug\KinectTest_WinFormApp.pdb
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp_20120620\KinectTest_WinFormApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp_20120620\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.s.resources
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp_20120620\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.Properties.Resources.resources
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp_20120620\KinectTest_WinFormApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp_20120620\KinectTest_WinFormApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.exe
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.pdb
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.s.resources
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\KinectTest_WinFormApp.Properties.Resources.resources
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp\KinectTest_WinFormApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp\KinectTest_WinFormApp\bin\Debug\KinectTest_WinFormApp.exe
+C:\Users\sshtel\Desktop\키넥트 베이시안\KinectTest_WinFormApp\KinectTest_WinFormApp\bin\Debug\KinectTest_WinFormApp.pdb
